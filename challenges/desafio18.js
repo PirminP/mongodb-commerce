@@ -1,7 +1,7 @@
 db.produtos.updateMany({
     nome: { $in: [
       "Big Mac",
-      "Quarteirão com Queijo"
+      "Quarteirão com Queijo",
     ] },
   }, {
     $push: {
