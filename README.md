@@ -7,6 +7,7 @@
 * Developed by using MongoDB & Docker
 
 ### Tasks
+##### The tasks are present in folder `challenges`.
 
   | Task     | Description |
   | ----------- | ----------- |
