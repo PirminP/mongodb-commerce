@@ -11,7 +11,7 @@
 
   | Task     | Description |
   | ----------- | ----------- |
-  | 1   |  |
+  | 1   | Query to return number of documents inserted in products collection |
   | 2   |  |
   | 3   |  |
   | 4   |  |
