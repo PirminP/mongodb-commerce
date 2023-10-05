@@ -2,7 +2,7 @@
 
 # Project MongoDB Commerce
 
-#### Based on the database containing information on McDonald's franchise products, challenges were developed to select the necessary information.
+#### Based on the database containing information about McDonald's franchise products, challenges were developed to select necessary information.
 
 * Developed by using MongoDB & Docker
 
