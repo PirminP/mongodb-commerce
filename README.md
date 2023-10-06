@@ -18,7 +18,7 @@
   | 5   | Query that filters products with 36 likes or 85 sales in total |
   | 6   | Query that returns products with more than 10 and less than 100 likes |
   | 7   | Query that returns products with a sales number other than 50 and which do not have a `tags` field |
-  | 8   |  |
+  | 8   | Query to delete burger with less than 50 likes and return remaining products |
   | 9   |  |
   | 10  |  |
   | 11  |  |
