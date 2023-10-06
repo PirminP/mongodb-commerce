@@ -19,7 +19,7 @@
   | 6   | Query that returns products with more than 10 and less than 100 likes |
   | 7   | Query that returns products with a sales number other than 50 and which do not have a `tags` field |
   | 8   | Query to delete burger with less than 50 likes and return remaining products |
-  | 9   |  |
+  | 9   | Query to return all burgers under 500 calories |
   | 10  |  |
   | 11  |  |
   | 12  |  |
