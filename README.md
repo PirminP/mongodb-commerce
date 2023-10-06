@@ -12,7 +12,7 @@
   | Task     | Description |
   | ----------- | ----------- |
   | 1   | Query to return number of documents inserted in products collection |
-  | 2   |  |
+  | 2   | Query to sort the products collection by the number of snacks sold in ascending order |
   | 3   |  |
   | 4   |  |
   | 5   |  |
