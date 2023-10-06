@@ -15,7 +15,7 @@
   | 2   | Query to sort products collection by number of burgers sold in ascending order |
   | 3   | Query to show best-selling burger |
   | 4   | Query to return all burgers with more than 50 and less than 100 sales |
-  | 5   |  |
+  | 5   | Query that filters products with 36 likes or 85 sales in total |
   | 6   |  |
   | 7   |  |
   | 8   |  |
