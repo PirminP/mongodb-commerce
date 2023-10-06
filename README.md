@@ -12,8 +12,8 @@
   | Task     | Description |
   | ----------- | ----------- |
   | 1   | Query to return number of documents inserted in products collection |
-  | 2   | Query to sort the products collection by the number of snacks sold in ascending order |
-  | 3   |  |
+  | 2   | Query to sort products collection by number of burgers sold in ascending order |
+  | 3   | Query to show best-selling burger |
   | 4   |  |
   | 5   |  |
   | 6   |  |
