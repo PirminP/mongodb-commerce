@@ -22,7 +22,7 @@
   | 9   | Query to return all burgers under 500 calories |
   | 10  | Query to filter burgers greater than or equal 30% and less than or equal 40% protein |
   | 11  | Query to filter burgers that don't have the names: Big Mac and McChicken, and return name, likes & sold |
-  | 12  |  |
+  | 12  | Query to add ketchup to ingredients for all burgers except McChicken |
   | 13  |  |
   | 14  |  |
   | 15  |  |
