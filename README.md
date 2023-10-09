@@ -25,7 +25,7 @@
   | 12  | Query to add ketchup to `ingredients` for all burgers except McChicken |
   | 13  | Query to include `createdBy` field in all documents with value Ronald McDonald |
   | 14  | Query that returns the burgers with pickles as `ingredients` and shows only the first 3 items in `nutritionalValues` field. |
-  | 15  |  |
+  | 15  | Query to add evaluation field to all documents and manipulate its value |
   | 16  |  |
   | 17  |  |
   | 18  |  |
