@@ -27,7 +27,7 @@
   | 14  | Query that returns the burgers with pickles as `ingredients` and shows only the first 3 items in `nutritionalValues` field. |
   | 15  | Query to add evaluation field to all documents and manipulate its value |
   | 16  | Query to add the lastModified field with current date for Big Mac only |
-  | 17  |  |
+  | 17  | Query to create a new collection called `summaryProducts` with total number of products  |
   | 18  |  |
   | 19  |  |
   | 20  |  |
