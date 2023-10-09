@@ -26,7 +26,7 @@
   | 13  | Query to include `createdBy` field in all documents with value Ronald McDonald |
   | 14  | Query that returns the burgers with pickles as `ingredients` and shows only the first 3 items in `nutritionalValues` field. |
   | 15  | Query to add evaluation field to all documents and manipulate its value |
-  | 16  |  |
+  | 16  | Query to add the lastModified field with current date for Big Mac only |
   | 17  |  |
   | 18  |  |
   | 19  |  |
