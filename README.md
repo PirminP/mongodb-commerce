@@ -29,7 +29,7 @@
   | 16  | Query to add the lastModified field with current date for Big Mac only |
   | 17  | Query to create a new collection called `summaryProducts` with total number of products  |
   | 18  | Query to include bacon at end of list of `ingredients` for Big Mac and Quarter-Cheese Burgers |
-  | 19  |  |
+  | 19  | Query to remove `ingredient` onion from all burgers |
   | 20  |  |
   | 21  |  |
   | 22  |  |
