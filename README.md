@@ -35,8 +35,8 @@
   | 22  | Query to create `salesByDay` field in all burgers |
   | 23  | Query to add values combo and tasty to `tags` array of all burgers in alphabetical order |
   | 24  | Query that sorts `nutritionalValues` in documents by percentage field in descending order |
-  | 25  |  |
-  | 26  |  |
+  | 25  | Query that adds `tag` a lot of sodium to products where percentage of sodium is greater than or equal to 40 |
+  | 26  | Query that adds `tag` a contain sodium to products where percentage of sodium is greater than 20 or less than 40  |
   | 27  |  |
   | 28  |  |
   | 29  | - |
