@@ -28,7 +28,7 @@
   | 15  | Query to add evaluation field to all documents and manipulate its value |
   | 16  | Query to add the lastModified field with current date for Big Mac only |
   | 17  | Query to create a new collection called `summaryProducts` with total number of products  |
-  | 18  |  |
+  | 18  | Query to include bacon at end of list of `ingredients` for Big Mac and Quarter-Cheese Burgers |
   | 19  |  |
   | 20  |  |
   | 21  |  |
