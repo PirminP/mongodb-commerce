@@ -34,7 +34,7 @@
   | 21  | Query to remove last `ingredient` from Cheddar McMelt burger |
   | 22  | Query to create `salesByDay` field in all burgers |
   | 23  | Query to add values combo and tasty to `tags` array of all burgers in alphabetical order |
-  | 24  |  |
+  | 24  | Query that sorts `nutritionalValues` in documents by percentage field in descending order |
   | 25  |  |
   | 26  |  |
   | 27  |  |
