@@ -38,7 +38,7 @@
   | 25  | Query that adds `tag` a lot of sodium to products where percentage of sodium is greater than or equal to 40 |
   | 26  | Query that adds `tag` a contain sodium to products where percentage of sodium is greater than 20 or less than 40  |
   | 27  | Query that counts number of documents that contain letters `mc` in their name |
-  | 28  |  |
+  | 28  | Query that counts how many documents with field `ingredients` with four items |
   | 29  | - |
   | 30  | - |
   | 31  | - |
