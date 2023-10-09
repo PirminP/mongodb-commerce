@@ -33,7 +33,7 @@
   | 20  | Query to remove first `ingredient` from Quarter-Cheese burger |
   | 21  | Query to remove last `ingredient` from Cheddar McMelt burger |
   | 22  | Query to create `salesByDay` field in all burgers |
-  | 23  |  |
+  | 23  | Query to add values combo and tasty to `tags` array of all burgers in alphabetical order |
   | 24  |  |
   | 25  |  |
   | 26  |  |
