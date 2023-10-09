@@ -1,5 +1,3 @@
-# :construction: README em construção ! :construction:
-
 # Project MongoDB Commerce
 
 #### Based on the database containing information about McDonald's franchise products, challenges were developed to select necessary information.
