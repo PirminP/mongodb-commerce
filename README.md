@@ -37,7 +37,7 @@
   | 24  | Query that sorts `nutritionalValues` in documents by percentage field in descending order |
   | 25  | Query that adds `tag` a lot of sodium to products where percentage of sodium is greater than or equal to 40 |
   | 26  | Query that adds `tag` a contain sodium to products where percentage of sodium is greater than 20 or less than 40  |
-  | 27  |  |
+  | 27  | Query that counts number of documents that contain letters `mc` in their name |
   | 28  |  |
   | 29  | - |
   | 30  | - |
